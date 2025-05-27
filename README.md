@@ -10,5 +10,6 @@ Remediation of Windows 10 STIG finding WN10-AU-000500 using manual and PowerShel
 ![STIG Reference](./screenshots/7_stig_reference_page.png)
 
 
+
 Add image links to README
 Fix image path references
