@@ -1,15 +1,28 @@
 # windows-stig-remediation-WN10-AU-000500
 Remediation of Windows 10 STIG finding WN10-AU-000500 using manual and PowerShell fixes.
 ---
+---
 
-![Baseline Failed](./screenshots/1_baseline_failed.png)
-![Manual Pass](./screenshots/2_manual_fix_passed.png)
-![Reverted Fail](./screenshots/3_reverted_fix_failed.png)
-![PowerShell Fix Pass](./screenshots/4_powershell_fix_passed.png)
-![Script](./screenshots/5_powershell_script.png)
-![STIG Reference](./screenshots/7_stig_reference_page.png)
+## 📸 Screenshots
 
+### 🔴 Initial Failure
+![Initial Failure](1_baseline_failed.png)
 
+### ✅ Manual Remediation Pass
+![Manual Fix Passed](2_manual_fix_passed.png)
 
-Add image links to README
-Fix image path references
+### 🔁 Reverted Manual Fix (Fails Again)
+![Reverted Manual Fail](3_reverted_fix_failed.png)
+
+### ⚙️ PowerShell Fix Pass
+![PowerShell Fix Passed](4_powershell_fix_passed.png)
+
+### 🧾 PowerShell Script Snapshot
+![PowerShell Script](5_powershell_script.png)
+
+### 📊 Final Compliance Summary
+![Final Summary](6_final_summary.png)
+
+### 📄 STIG Reference Page
+![STIG Reference Page](7_stig_reference_page.png)
+
